@@ -45,4 +45,4 @@ You can also board the train to the labs by launching all lab notebooks in eithe
 
 Please don't hesitate to send us all your questions using the course mail address: 
 
-![Course E-mail](https://github.com/HSG-AIML/LabGSERM/blob/main/course_email.png)
+![Course E-mail](https://github.com/HSG-AIML-Teaching/GSERM2026-Lab/blob/main/course_email.png)
